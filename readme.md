@@ -1,6 +1,8 @@
 <!--
 Creator: Ilias Tsangaris
 Market: SF
+Modified by: Zeb Girouard
+Market: DEN
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
@@ -9,9 +11,9 @@ Market: SF
 
 ## Introduction
 
-> *Pair programming encouraged*
+> *Pair programming activity*
 
-This lab provides an opportunity to practice implementing some real-world functions. If you [pair program](https://en.wikipedia.org/wiki/Pair_programming), we recommend [screen sharing](http://osxdaily.com/2012/10/10/remote-control-mac-screen-sharing-os-x/) and alternating roles as a "driver" and "navigator" after each step.
+This lab provides an opportunity to practice implementing some real-world functions.
 
 ## Exercise
 
@@ -19,11 +21,11 @@ This lab provides an opportunity to practice implementing some real-world functi
 
 Please write code that implements various functions, following the requirements in the list below:
 
-1. Define a function `maxOfTwoNumbers` that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript. Do some googling to figure this out if you forget how conditionals work.
+1. Define a function `maxOfTwoNumbers` that takes two numbers as arguments and returns the larger of them. Use the if-else construct available in Javascript. Do some Googling to figure this out if you forget how conditionals work.
 2. Define a function `maxOfThree` that takes three numbers as arguments and returns the largest of them.
 3. Write a function `isCharacterAVowel` that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
 4. Define a function `sumArray` and a function `multiplyArray` that sums and multiplies (respectively) all the numbers in an array of numbers. For example, `sumArray([1,2,3,4])` should return 10, and `multiplyArray([1,2,3,4])` should return 24.
-5. Write a function that return the number of arguments passed to the function when called.
+5. Write a function that returns the number of arguments passed to the function when called.
 6. Define a function `reverseString` that computes the reversal of a string. For example, reverseString("jag testar") should return the string "ratset gaj".
 7. Write a function `findLongestWord` that takes an array of words and returns the length of the longest one.
 8. Write a function `filterLongWords` that takes an array of words and a number `i` and returns the array of words that are longer than i characters long.
@@ -31,7 +33,7 @@ Please write code that implements various functions, following the requirements 
 
 **Bonus**
 
-2. Write a function that takes a string as argument and returns an object where:
+1. Write a function that takes a string as an argument and returns an object where:
   - the keys are the characters that occur in the string
   - the values are the number of occurences for each letter, regardless of the case
 
@@ -54,14 +56,17 @@ For example, calling the function with the string "General Assembly" will return
 
 #### Getting started
 
+Fork and clone this repo. You should do all you work inside the `starter-code` folder.
+
 Open the file `functions.js`. All the function names are already inside the file, you just need to implement them by adding code inside each one.
 
 Use the Chrome dev tools console to practice executing your code.
 
+As you [pair program](https://en.wikipedia.org/wiki/Pair_programming), we recommend [screen sharing](http://osxdaily.com/2012/10/10/remote-control-mac-screen-sharing-os-x/). Alternate roles as "driver" and "navigator" after each step.
+
 #### Deliverable
 
 Push completed homework up to your fork of this repo.
-
 
 ## Additional Resources
 
