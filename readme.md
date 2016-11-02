@@ -56,13 +56,13 @@ For example, calling the function with the string "General Assembly" will return
 
 #### Getting started
 
-Fork and clone this repo. You should do all you work inside the `starter-code` folder.
+Fork and clone this repo. You should do all your work inside the `starter-code` folder.
 
 Open the file `functions.js`. All the function names are already inside the file, you just need to implement them by adding code inside each one.
 
 Use the Chrome dev tools console to practice executing your code.
 
-As you [pair program](https://en.wikipedia.org/wiki/Pair_programming), we recommend [screen sharing](http://osxdaily.com/2012/10/10/remote-control-mac-screen-sharing-os-x/). Alternate roles as "driver" and "navigator" after each step.
+We will be "pair programming" for this lab, so you will need to pair up. Once you have your pair, decide which computer you want to work on. As you [pair program](https://en.wikipedia.org/wiki/Pair_programming), alternate roles as "driver" and "navigator" after each step.
 
 #### Deliverable
 
